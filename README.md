@@ -2,7 +2,7 @@
 - 👀 I enjoy art, music, and space
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on idk yet
-- 📫 How to reach me you dont
+- 📫 How to reach me.......
 
 <!---
 fckewb/fckewb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
